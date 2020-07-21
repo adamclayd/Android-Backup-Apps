@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Backup Apps</string>
+    <string name="ok">Ok</string>
+    <string name="error">Error</string>
+    <string name="alert">Alert</string>
+    <string name="no_root">Root privileges not permitted</string>
+    <string name="apps">Apps</string>
+    <string name="select_all">Select All</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+    <string name="no_selection">No apps have been selected</string>
+    <string name="save_as">Save As</string>
+    <string name="browse">Browse</string>
+    <string name="save_backup_as">Save Backup As</string>
+    <string name="choose_destination">Choose a destination</string>
+    <string name="no_such_file_or_directory">Invalid path no such file or directory</string>
+    <string name="copying">Copying files</string>
+    <string name="backing_up">Backing up apps</string>
+    <string name="backup_running">A backup or a restore process already running. Wait for it to complete</string>
+    <string name="not_enough_space">Not enough disk space to perform action</string>
+    <string name="unzipping">Unzipping</string>
+    <string name="restoring">Restoring Backup</string>
+</resources>
